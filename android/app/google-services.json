@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "679761836055",
+    "project_id": "fir-todo-6dff7",
+    "storage_bucket": "fir-todo-6dff7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679761836055:android:c09bbe866886447abd0452",
+        "android_client_info": {
+          "package_name": "com.example.todojango"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679761836055-bua6napt98l5beqdpv70orhbi7ie4hoh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl9D7jEOeZbUrelBhF1EgA-vh0DHMQy3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679761836055-bua6napt98l5beqdpv70orhbi7ie4hoh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "679761836055-v8cjh2u646fcf5e4r3af9k8gq52unbkd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.todojango"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
